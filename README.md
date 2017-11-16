@@ -10,3 +10,5 @@ Instruction:
 2. Left click to choose a chess and drag a chess to a legal place.
 3. The program will check if the operation is legal and the win or lose of the game.
 4. Left click save or load bottom to save or load the .dat file of the game.
+
+finished in 2013. by Lei Zhang
